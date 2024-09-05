@@ -1,2 +1,2 @@
 # awesome-machine-learning-soccer
-Most interesting research papers: machine learning + soccer
+This repository contains most interesting research papers and sometimes implementations in Python.
